@@ -32,7 +32,11 @@ export default function Home() {
       <section>
         Math is not fun.
         Math is useful but not fun.
+        Math is difficult, repetitive, boring, stressful.
+        Many math topics aren't revalent to real life.
       </section>
+      <section>
+        This is totally a personal opinion.
       <footer>
         By Eugene
       </footer>
