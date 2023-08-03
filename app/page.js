@@ -17,11 +17,11 @@ export default function Home() {
           >
             By{' '}
             <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
-              className={styles.vercelLogo}
-              width={100}
-              height={24}
+              src="/IMG_5765.jpg"
+              alt="Logo"
+              className={styles.Logo}
+              width={233}
+              height={162}
               priority
             />
           </a>
