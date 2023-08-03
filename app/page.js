@@ -30,8 +30,10 @@ export default function Home() {
 
       <section>
         Hello
-        Yay
       </section>
+      <footer>
+        By Eugene
+      </footer>
           
     </main>
   )
