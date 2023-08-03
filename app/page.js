@@ -9,9 +9,11 @@ export default function Home() {
           Math is 
           <code className={styles.code}> not fun</code>
         </p>
-        <b>
-          Hello
-        </b>
+        <div>
+          <b>
+            Hello
+          </b>
+        </div>
         <div>
           <a
             href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
