@@ -37,6 +37,7 @@ export default function Home() {
       </section>
       <section>
         This is totally a personal opinion.
+      </section>
       <footer>
         By Eugene
       </footer>
