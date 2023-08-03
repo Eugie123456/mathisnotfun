@@ -2,22 +2,10 @@ import Image from 'next/image'
 import styles from './page.module.css'
 import Head from 'next/head'
  
-function IndexPage() {
-  return (
-    <div>
-      <Head>
-        <title>Math is not fun</title>
-      </Head>
-      <p>Hello world!</p>
-    </div>
-  )
-}
- 
-export default IndexPage
-
 export default function Home() {
   return (
     <main className={styles.main}>
+      <title>Math is not fun</title>
       <div className={styles.description}>
         <p>
           <code className={styles.code}>Math is not fun</code>
