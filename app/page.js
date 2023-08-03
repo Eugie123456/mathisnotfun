@@ -35,6 +35,9 @@ export default function Home() {
         Math is difficult, repetitive, boring, stressful.
         Many math topics are not revalent to real life.
       </section>
+      <section>
+        This is a personal opinion.
+      </section>
       <footer>
         By Eugene
       </footer>
