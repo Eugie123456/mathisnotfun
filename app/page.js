@@ -9,11 +9,11 @@ export default function Home() {
           Math is 
           <code className={styles.code}> not fun</code>
         </p>
-        <div>
-          <b>
-            Hello
-          </b>
-        </div>
+        <body>
+          <div style = "position:relative; left:80px; top:20px;">
+             This div has relative positioning.
+          </div>
+       </body>
         <div>
           <a
             href="https://vercel.com?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
