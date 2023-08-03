@@ -7,7 +7,7 @@ export default function Home() {
       <div className={styles.description}>
         <p>
           Math is 
-          <code className={styles.code}>not fun</code>
+          <code className={styles.code}> not fun</code>
         </p>
         <div>
           <a
