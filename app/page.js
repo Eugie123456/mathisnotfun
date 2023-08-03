@@ -30,10 +30,10 @@ export default function Home() {
 
 
     </main>
-    <yay>
+    <body>
       <h>
         Hello
       </h>
-    </yay>
+    </body>
   )
 }
