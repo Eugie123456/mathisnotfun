@@ -9,9 +9,6 @@ export default function Home() {
           Math is 
           <code className={styles.code}> not fun</code>
         </p>
-        <h>
-          Hello
-        </h>
         <div>
           <a
             href="https://www.mathisnotfun.co"
@@ -33,5 +30,10 @@ export default function Home() {
 
 
     </main>
+    <yay>
+      <h>
+        Hello
+      </h>
+    </yay>
   )
 }
