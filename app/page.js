@@ -29,7 +29,8 @@ export default function Home() {
       </div>
 
       <section>
-        Hello
+        Math is not fun.
+        Math is useful but not fun.
       </section>
       <footer>
         By Eugene
