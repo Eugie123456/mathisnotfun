@@ -28,12 +28,10 @@ export default function Home() {
         </div>
       </div>
 
-
-    </main>
-    <body>
-      <h>
+      <footer>
         Hello
-      </h>
-    </body>
+      </footer>
+          
+    </main>
   )
 }
