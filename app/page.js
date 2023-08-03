@@ -28,9 +28,9 @@ export default function Home() {
         </div>
       </div>
 
-      <footer>
+      <section>
         Hello
-      </footer>
+      </section>
           
     </main>
   )
