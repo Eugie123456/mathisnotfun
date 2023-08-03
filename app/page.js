@@ -39,7 +39,7 @@ export default function Home() {
         This is a personal opinion.
       </section>
       <footer>
-        By Eugene
+        -By Eugene-
       </footer>
           
     </main>
