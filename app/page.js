@@ -6,8 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Math is 
-          <code className={styles.code}> not fun</code>
+          <code className={styles.code}>Math is not fun</code>
         </p>
         <div>
           <a
