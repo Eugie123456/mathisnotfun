@@ -17,7 +17,7 @@ export default function Home() {
           >
             By{' '}
             <Image
-              src="/IMG_5765.jpg"
+              src="/IMG_5765.svg"
               alt="Logo"
               className={styles.Logo}
               width={233}
