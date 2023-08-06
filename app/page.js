@@ -12,7 +12,7 @@ export default function Home() {
         </p>
         <div>
           <a
-            href="https://www.mathisnotfun.co"
+            href="https://youtu.be/dQw4w9WgXcQ"
             target="_blank"
             rel="noopener noreferrer"
           >
