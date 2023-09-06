@@ -41,7 +41,6 @@ export default function Home() {
       </section>
       <footer>
         -By Eugene-
-        https://github.com/Eugie123456/mathisnotfun
       </footer>
           
     </main>
