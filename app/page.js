@@ -8,7 +8,7 @@ export default function Home() {
       <title>Math is not fun</title>
       <div className={styles.description}>
         <p>
-          <code className={styles.code}>Math is not fun</code>
+          <code className={styles.code}>Math is fun</code>
         </p>
         <div>
           <a
@@ -30,11 +30,9 @@ export default function Home() {
       </div>
 
       <section>
-        Math is not fun.
-        Math is useful but not fun.
-        Math is difficult, repetitive, boring, stressful.
-        Many math topics are not revalent to real life.
-        And that is why math is not fun.
+        Math is fun.
+        Math is very fun.
+        You will need math in every part of your career.
       </section>
       <section>
         This is a personal opinion.
